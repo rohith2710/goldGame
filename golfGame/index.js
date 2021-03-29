@@ -1,5 +1,5 @@
 function Game() {
-
+    console.log('hi');
 }
 
 
